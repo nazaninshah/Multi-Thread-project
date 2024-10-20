@@ -1,0 +1,99 @@
+[ {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 13,
+  "errorCode" : "ERR006",
+  "errorClassification" : "Customer Validation",
+  "errorDescription" : "Customer is under the legal age",
+  "errorDate" : 1729458194486
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 15,
+  "errorCode" : "ERR006",
+  "errorClassification" : "Customer Validation",
+  "errorDescription" : "Customer is under the legal age",
+  "errorDate" : 1729458194487
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 20,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729458194505
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 21,
+  "errorCode" : "ERR005",
+  "errorClassification" : "Customer Validation",
+  "errorDescription" : "Invalid customer national ID",
+  "errorDate" : 1729458194507
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 22,
+  "errorCode" : "ERR006",
+  "errorClassification" : "Customer Validation",
+  "errorDescription" : "Customer is under the legal age",
+  "errorDate" : 1729458194700
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 24,
+  "errorCode" : "ERR005",
+  "errorClassification" : "Customer Validation",
+  "errorDescription" : "Invalid customer national ID",
+  "errorDate" : 1729458194701
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 32,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729458194702
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 33,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729458194703
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 34,
+  "errorCode" : "ERR006",
+  "errorClassification" : "Customer Validation",
+  "errorDescription" : "Customer is under the legal age",
+  "errorDate" : 1729458194704
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 35,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729458194704
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 36,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729458194705
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 37,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729458194705
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 38,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729458194706
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 40,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729458194707
+} ]
