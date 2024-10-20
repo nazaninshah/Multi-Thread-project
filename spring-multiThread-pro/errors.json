@@ -1,0 +1,120 @@
+[ {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 13,
+  "errorCode" : "ERR006",
+  "errorClassification" : "Customer Validation",
+  "errorDescription" : "Customer is under the legal age",
+  "errorDate" : 1729459087009
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 15,
+  "errorCode" : "ERR006",
+  "errorClassification" : "Customer Validation",
+  "errorDescription" : "Customer is under the legal age",
+  "errorDate" : 1729459087012
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 20,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729459087030
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 21,
+  "errorCode" : "ERR005",
+  "errorClassification" : "Customer Validation",
+  "errorDescription" : "Invalid customer national ID",
+  "errorDate" : 1729459087031
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 22,
+  "errorCode" : "ERR006",
+  "errorClassification" : "Customer Validation",
+  "errorDescription" : "Customer is under the legal age",
+  "errorDate" : 1729459087240
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 24,
+  "errorCode" : "ERR005",
+  "errorClassification" : "Customer Validation",
+  "errorDescription" : "Invalid customer national ID",
+  "errorDate" : 1729459087241
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 32,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729459087242
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 33,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729459087243
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 34,
+  "errorCode" : "ERR006",
+  "errorClassification" : "Customer Validation",
+  "errorDescription" : "Customer is under the legal age",
+  "errorDate" : 1729459087243
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 35,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729459087244
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 36,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729459087245
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 37,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729459087246
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 38,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729459087246
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 40,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729459087248
+}, {
+  "fileName" : "Accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "ERR003",
+  "errorClassification" : "Account Customer Matching Validation",
+  "errorDescription" : "Invalid customer ID",
+  "errorDate" : 1729459087650
+}, {
+  "fileName" : "Accounts.csv",
+  "recordNumber" : 6,
+  "errorCode" : "ERR001",
+  "errorClassification" : "Account Validation",
+  "errorDescription" : "Account balance exceeds the account limit",
+  "errorDate" : 1729459087663
+}, {
+  "fileName" : "Accounts.csv",
+  "recordNumber" : 8,
+  "errorCode" : "ERR007",
+  "errorClassification" : "Not Null Validation",
+  "errorDescription" : "Field is null",
+  "errorDate" : 1729459087664
+} ]
